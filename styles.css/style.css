@@ -1,0 +1,67 @@
+body {
+  background-color: #001e6c;
+}
+h1 {
+  font-family: "Luckiest Guy", cursive;
+  color: #89c4e1;
+}
+h2 {
+font-family: "Luckiest Guy", cursive;
+color: #89c4e1;
+}
+p{
+font-family: "Luckiest Guy", cursive;
+  /* text-align: center; */
+}
+.box1{
+height: 59px;
+width: 166px;
+margin: 20px;
+border: 5px solid;
+background-color: #fbd603;
+position: fixed;
+right: 0px;
+left: 760px;
+top: 320px;
+font-family: "Luckiest Guy", cursive;
+/* text-align: center; */
+}
+.box2{
+height: 59px;
+width: 166px;
+margin: 20px;
+border: 5px solid;
+background-color: #fbd603;
+position: fixed;
+right: 0px;
+left: 560px;
+top: 320px;
+font-family: "Luckiest Guy", cursive;
+/* text-align: center; */
+}
+.rock {
+height: 100px;
+}
+.paper {
+height: 100px;
+} 
+.scissors {
+height: 100px;
+}
+.lizard {
+height: 100px;
+}
+.spock {
+height: 100px;
+}
+h3{
+  color: #89c4e1;
+  font-family: "Luckiest Guy", cursive;
+
+}
+
+/* position: bottom ;
+top: 870px;
+right: 800px;
+width: 100px;
+height: 80px; */
